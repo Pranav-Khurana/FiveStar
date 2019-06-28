@@ -9,7 +9,7 @@ $('img').fadeOut(10000);
 $('img').fadeIn(10000);
 }
 $('.button').on('click', function () { $(this).toggleClass('togler'); $(this).next().slideToggle(1000);  } );
-$('#pics').on('click', function () { window.open("C:/Users/pranav/Desktop/programing/FiveStar/five_stars_gallery.html") } );
+$('#pics').on('click', function () { window.open("five_stars_gallery.html") } );
 
 }
 $(document).ready(main);
