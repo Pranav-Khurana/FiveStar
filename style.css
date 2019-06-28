@@ -1,0 +1,77 @@
+body {
+background: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1OlOTpbwqKKY7gFyLwv1qx0Waiq5XUZkUHnQdMqzY0D21yH_O") no-repeat;
+background-size: cover;
+text-align: center;
+}
+
+img{
+border: 4px outset aqua ;
+}
+
+.main {
+text-align: center;
+margin: 0;
+}
+
+.main  img{
+background-color: bisque;
+border-radius:15px;
+margin: 10px;
+opacity: 0.85;
+}
+
+.main  h1{
+font-family: Eagle Lake;
+text-transform: uppercase;
+color: snow;
+}
+
+.main  p {
+font-family: Amatic SC;
+font-weight: bold;
+color: Aliceblue;
+font-size: 28px;
+padding: 15px 50px;
+}
+
+.button{
+display: inline-block;
+color: mintcream;
+background-image: -webkit-linear-gradient(#9FA3EA,#43268C);
+border: 4px inset ghostwhite;
+}
+
+h3{
+font-family: Dosis;
+font-size: 35px;
+text-transform: uppercase;
+margin: 5px;
+}
+
+.togler{
+font-family: Dosis;
+color: khaki;
+background-image:  -webkit-linear-gradient(black,gainsboro);
+}
+
+#gal{
+width: 150px;
+height: auto;
+}
+
+.mem,.eve{
+font-weight: 100;
+font-family: Pacifico;
+text-align: left;
+text-style: normal;
+color: floralwhite;
+font-size: 20px;
+padding: 5px;
+}
+
+#gallery{
+font-family: Macondo;
+color: rgba(0,125,225,0.4);
+text-transform: uppercase;
+font-size: 32px;
+}
